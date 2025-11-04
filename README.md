@@ -1,1 +1,1 @@
-## Initialized the repo and set up the branches.
+## Initialized the development branch
