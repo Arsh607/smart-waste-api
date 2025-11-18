@@ -1,7 +1,7 @@
 import { Router } from "express";
 import * as controller from "../controllers/requestController";
 import { validate } from "../middleware/validate";
-import { requestSchema } from "../validation/requestValidation";
+import { requestSchema } from "../validation/requestvalidation";
 
 const router = Router();
 
