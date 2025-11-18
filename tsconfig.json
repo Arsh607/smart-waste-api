@@ -14,7 +14,8 @@
         "strictFunctionTypes": true, 
         "strictPropertyInitialization": true, 
         "noImplicitThis": true, 
-        "alwaysStrict": true 
+        "alwaysStrict": true,
+        "baseUrl": "."
     },
     "include": ["src/**/*", "tests/**/*"], 
     "exclude": ["node_modules", "dist"] 
